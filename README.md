@@ -38,6 +38,3 @@ The design was implemented on an FPGA platform with the winning player displayed
 | File | Description |
 |---|---|
 | `FFF8USER.v` | Verilog HDL design |
-## Achievement
-
-Runner-up position in the Autonomous Maze Solver Competition at Mindbend, SVNIT is a separate achievement and is not part of this project.
